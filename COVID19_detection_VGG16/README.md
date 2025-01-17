@@ -46,7 +46,7 @@ The accuracy, precision, recall, f1-score, AUC, and confusion matrix metrics wer
 | Kalman | 0.9624   | 0.9959    | 0.9529 | 0.9739   | 0.9959 |
 | Gamma  | 0.9588   | 0.9949    | 0.9490 | 0.9714   | 0.9932 |
 
-Confusion matrices
+### Confusion matrices
 
 ![clahe](https://github.com/user-attachments/assets/aa35f294-9677-4fcf-a32f-6b9cfb6979dd)
 ![Kalman](https://github.com/user-attachments/assets/48e31031-c608-4d0d-b520-ff7e7006e501)
