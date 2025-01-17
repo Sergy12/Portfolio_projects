@@ -6,11 +6,11 @@
 - Reduce the 3 models' training total time using GPU and optimization techniques.
 
 ### Outcome
-- Achieved 95% accuracy on the validation dataset.
+- The best model achieved 96% accuracy on the testing dataset.
 - Reduction of training time from 3 hours per epoch to 56 seconds per epoch.
 - Implemented transfer learning for efficient model training.
 - Implemented multi-thread training.
-- Achiee
+- Data augmentation, and regularization techniques applied.
 
 ## Dataset
 The data was obtained from the Kaggle platform; the dataset is called
