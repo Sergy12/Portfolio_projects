@@ -84,5 +84,5 @@ The use of optimization techniques, advanced training strategies, and diverse ha
 - Since the three image preprocessing techniques consumed too much time, all of them were parallelized in the CPU by using different numbers of threads to apply the preprocessing techniques on different images at the same time; also, each technique itself was optimized using Numba to work with the GPU available. This solution was applied before the migration of the platform using Google Colab GPU.
 
 ## Contact
-For questions, reach out via [LinkedIn](https://www.linkedin.com/in/sergy-escobar-caicedo-11a983342/) or email sergyjoel.12@hotmail.com.
+For questions, reach out via [LinkedIn](https://www.linkedin.com/in/sergy-escobar-caicedo-11a983342/) or sergyjoel.12@hotmail.com.
 
