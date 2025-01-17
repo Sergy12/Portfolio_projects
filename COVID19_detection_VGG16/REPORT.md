@@ -1,7 +1,7 @@
 # VGG16 Image Detection Project
 
 ## Overview
-### Objective
+### Objectives
 - To implement and compare 3 deep-learning models for image detection using the VGG16 architecture. Each model uses a different image preprocessing method.
 - Reduce the 3 models' training total time using GPU and optimization techniques.
 
