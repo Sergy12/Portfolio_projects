@@ -40,35 +40,13 @@ Hardware: NVIDIA L40 GPU Accelerator (48 GB VRAM).
 ## Results
 The accuracy, precision, recall, f1-score, AUC, and confusion matrix metrics were used to test the models' performance.
 
-Clahe Accuracy: 0.9645
+Clahe: Accuracy: 0.9645, Precision: 0.9909, Recall: 0.9608, F1-Score: 0.9756, AUC: 0.9932.
 
-Clahe Precision: 0.9909
+Kalman: Accuracy: 0.9624, Precision: 0.9959, Recall: 0.9529, F1-Score: 0.9739, AUC: 0.9959.
 
-Clahe Recall: 0.9608
+Gamma: Correction Accuracy: 0.9588, Precision: 0.9949, Recall: 0.9490, F1-Score: 0.9714, AUC: 0.9932.
 
-Clahe F1-Score: 0.9756
-
-Clahe AUC: 0.9932
-
-Kalman Accuracy: 0.9624
-
-Kalman Precision: 0.9959
-
-Kalman Recall: 0.9529
-
-Kalman F1-Score: 0.9739
-
-Kalman AUC: 0.9959
-
-Gamma Correction Accuracy: 0.9588
-
-Gamma Correction Precision: 0.9949
-
-Gamma Correction Recall: 0.9490
-
-Gamma Correction F1-Score: 0.9714
-
-Gamma Correction AUC: 0.9932
+Confusion matrices
 
 ![clahe](https://github.com/user-attachments/assets/aa35f294-9677-4fcf-a32f-6b9cfb6979dd)
 ![Kalman](https://github.com/user-attachments/assets/48e31031-c608-4d0d-b520-ff7e7006e501)
